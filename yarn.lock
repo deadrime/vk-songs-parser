@@ -543,6 +543,13 @@ lodash@^4.13.1, lodash@^4.15.0:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
   integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
 
+m3u@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/m3u/-/m3u-0.0.2.tgz#cb971743b434efd8c77b3cc3a47fc0411a903df7"
+  integrity sha1-y5cXQ7Q079jHezzDpH/AQRqQPfc=
+  dependencies:
+    oop "0.0.3"
+
 mime-db@~1.37.0:
   version "1.37.0"
   resolved "https://registry.yarnpkg.com/mime-db/-/mime-db-1.37.0.tgz#0b6a0ce6fdbe9576e25f1f2d2fde8830dc0ad0d8"
@@ -614,6 +621,11 @@ once@^1.3.0:
   integrity sha1-WDsap3WWHUsROsF9nFC6753Xa9E=
   dependencies:
     wrappy "1"
+
+oop@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/oop/-/oop-0.0.3.tgz#70fa405a5650891a194fdc82ca68dad6dabf4401"
+  integrity sha1-cPpAWlZQiRoZT9yCymja1tq/RAE=
 
 p-limit@^1.1.0:
   version "1.3.0"
